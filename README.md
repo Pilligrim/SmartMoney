@@ -1,2 +1,2 @@
 # SmartMoney
-WebService on the spring for accounting finance
+WebService on the Spring Boot for accounting finance
